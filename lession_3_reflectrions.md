@@ -21,6 +21,10 @@
 #如何在不使用 Git 或 GitHub 的情况下开展协同？哪种做法更容易？哪种做法更困难？
 
 > git branch new-branch
+
 > git pull origin new-branch
+
 > pull question
+
 > merge question
+
