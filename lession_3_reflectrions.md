@@ -16,3 +16,11 @@
 * Fork:重建另一个属于自己的GitHub工程，拥有修改权
 * Clone:github => local;local => local
 * Branch:不同版本
+
+---
+#如何在不使用 Git 或 GitHub 的情况下开展协同？哪种做法更容易？哪种做法更困难？
+
+> git branch new-branch
+> git pull origin new-branch
+> pull question
+> merge question
